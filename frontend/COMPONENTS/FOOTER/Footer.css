@@ -1,0 +1,18 @@
+.mainFooterContainer{
+    background-color: rgb(3, 49, 8);
+    position: absolute;
+    bottom: 0;
+    width: 100vw;
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    font-size: 13px;
+    box-sizing: border-box;
+}
+
+.footerImmediateContact{
+    display: flex;
+    gap: 40px;
+}

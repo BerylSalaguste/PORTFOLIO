@@ -1,0 +1,28 @@
+.mainHeaderContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    text-transform: uppercase;
+}
+
+.headerNameText{
+    font-size: 25px;
+    color: rgb(1, 33, 4);
+}
+
+.headerNameJob{
+    font-weight: 400;
+    color: rgb(4, 56, 9);
+    text-decoration: underline;
+}
+
+.headerNavigation{
+    display: flex;
+    gap: 4rem;
+}
+
+.headerNav{
+    list-style: none;
+    font-size: 14px;
+    color: rgb(1, 33, 4);
+}
